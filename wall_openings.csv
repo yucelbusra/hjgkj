@@ -1,0 +1,2 @@
+OpeningId,OpeningType,Category,TypeName,FamilyName,HostWallId,HostWallType,Level,SillHeight(ft),Width(ft),Height(ft),Thickness(ft),PositionAlongWall(ft),LeftEdgeAlongWall(ft),RightEdgeAlongWall(ft),"Location(X,Y,Z)",FacingOrientation,HandOrientation,FromRoom,ToRoom,Mark,Comments,Area(sf)
+1236013,Doors,Doors,,Door-Passage-Single-Flush,1235546,,L1,0.0,3.3332999999999999,7.3333000000000004,,34.333300000000001,32.666699999999999,36.0,"(-0.0,-34.3333,0.0)","(1.0,-0.0,0.0)","(-0.0,-1.0,0.0)",,,101,,24.444400000000002

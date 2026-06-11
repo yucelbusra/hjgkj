@@ -1,0 +1,961 @@
+﻿
+
+--- PANEL PLACEMENT: CORE CENTER ALIGNMENT WITH VOID CONTROL ---
+
+
+
+Loaded 5 panels.
+
+
+
+Using Family: RNGD_Optimizer Ext Wall Panel_Opening_Center
+
+
+
+
+--- Wall 1235546 ---
+
+
+
+[CORE] Core span: 0.0000 to 0.6667 ft, center at 0.3333 ft from ext face
+
+
+
+[CORE] Location line depth from ext face: 0.3333 ft
+
+
+
+[CORE] Final offset loc_line -> core center: 0.0000 ft
+
+
+
+[GEO] Using CSV wall geometry: origin=(-0.000,-0.000,0.000) dir=(0.0000,-1.0000,0.0000)
+
+
+
+[ELEV] Wall base: Level='L1' @ 0.000 ft + offset 0.000 ft = 0.000 ft
+
+
+
+[ELEV] Panel base Z: 0.000 ft (curve 0.000 + y_in 0.000 in)
+
+
+
+[PLACE] Hosted (abs Z=0.000 ft): P01
+
+
+
+[SIZE] Width param: Overall Width
+
+
+
+[SIZE] Height param: Overall Height
+
+
+
+[ALIGN] P01: expected span 0.000..11.500 ft | bbox span -3.666..12.250 ft | delta 43.988 in
+
+
+
+[ALIGN] Moved P01 along wall dir by 43.988 in
+
+
+
+[DIAG] ---- INSTANCE PARAMETERS ----
+
+
+
+[DIAG] inst | 'Image'
+
+
+
+[DIAG] inst | 'Category'
+
+
+
+[DIAG] inst | 'Category'
+
+
+
+[DIAG] inst | 'IFC Predefined Type'
+
+
+
+[DIAG] inst | 'Export to IFC As'
+
+
+
+[DIAG] inst | 'Export to IFC'
+
+
+
+[DIAG] inst | 'IfcGUID'
+
+
+
+[DIAG] inst | 'Design Option'
+
+
+
+[DIAG] inst | 'Volume'
+
+
+
+[DIAG] inst | 'Area'
+
+
+
+[DIAG] inst | 'Phase Demolished'
+
+
+
+[DIAG] inst | 'Phase Created'
+
+
+
+[DIAG] inst | 'Comments'
+
+
+
+[DIAG] inst | 'Host Id'
+
+
+
+[DIAG] inst | 'Level'
+
+
+
+[DIAG] inst | 'Family and Type'
+
+
+
+[DIAG] inst | 'Family'
+
+
+
+[DIAG] inst | 'Type'
+
+
+
+[DIAG] inst | 'Family Name'
+
+
+
+[DIAG] inst | 'Type Name'
+
+
+
+[DIAG] inst | 'Type Id'
+
+
+
+[DIAG] inst | 'Moves With Nearby Elements'
+
+
+
+[DIAG] inst | 'Offset from Host'
+
+
+
+[DIAG] inst | 'Host'
+
+
+
+[DIAG] inst | 'Elevation from Level'
+
+
+
+[DIAG] inst | 'Mark'
+
+
+
+[DIAG] inst | 'Overall Height'
+
+
+
+[DIAG] inst | 'Overall Width'
+
+
+
+[DIAG] inst | 'Finish Area'
+
+
+
+[DIAG] inst | 'Wall Panel Area'
+
+
+
+[DIAG] inst | 'Sheathing Wrap_Left'
+
+
+
+[DIAG] inst | 'Sheathing Wrap_Right'
+
+
+
+[DIAG] inst | 'Void 1 Height'
+
+
+
+[DIAG] inst | 'Void 1 Y Offset'
+
+
+
+[DIAG] inst | 'Void 1 Width'
+
+
+
+[DIAG] inst | 'Void 1 X Offset'
+
+
+
+[DIAG] inst | 'VOID 1'
+
+
+
+[DIAG] inst | 'VOID 1 SILL CLR'
+
+
+
+[DIAG] inst | 'VOID 1 HEAD CLR'
+
+
+
+[DIAG] inst | 'VOID 1 JAMB CLR'
+
+
+
+[DIAG] inst | 'UNIT 1 HEIGHT'
+
+
+
+[DIAG] inst | 'UNIT 1 WIDTH'
+
+
+
+[DIAG] inst | 'Void 2 Y Offset'
+
+
+
+[DIAG] inst | 'UNIT 2 WIDTH'
+
+
+
+[DIAG] inst | 'VOID 2 JAMB CLR'
+
+
+
+[DIAG] inst | 'VOID 2'
+
+
+
+[DIAG] inst | 'VOID 2 HEAD CLR'
+
+
+
+[DIAG] inst | 'VOID 2 SILL CLR'
+
+
+
+[DIAG] inst | 'UNIT 2 HEIGHT'
+
+
+
+[DIAG] inst | 'Void 2 Height'
+
+
+
+[DIAG] inst | 'Void 2 Width'
+
+
+
+[DIAG] inst | 'Void 2 X Offset'
+
+
+
+[DIAG] ---- TYPE PARAMETERS ----
+
+
+
+[DIAG] type | 'Default Elevation'
+
+
+
+[DIAG] type | 'Type Image'
+
+
+
+[DIAG] type | 'Keynote'
+
+
+
+[DIAG] type | 'Category'
+
+
+
+[DIAG] type | 'Category'
+
+
+
+[DIAG] type | 'Type IFC Predefined Type'
+
+
+
+[DIAG] type | 'Export Type to IFC As'
+
+
+
+[DIAG] type | 'Export Type to IFC'
+
+
+
+[DIAG] type | 'Type IfcGUID'
+
+
+
+[DIAG] type | 'Design Option'
+
+
+
+[DIAG] type | 'Model'
+
+
+
+[DIAG] type | 'Manufacturer'
+
+
+
+[DIAG] type | 'Type Comments'
+
+
+
+[DIAG] type | 'URL'
+
+
+
+[DIAG] type | 'Description'
+
+
+
+[DIAG] type | 'Code Name'
+
+
+
+[DIAG] type | 'OmniClass Title'
+
+
+
+[DIAG] type | 'OmniClass Number'
+
+
+
+[DIAG] type | 'Assembly Description'
+
+
+
+[DIAG] type | 'Assembly Code'
+
+
+
+[DIAG] type | 'Family Name'
+
+
+
+[DIAG] type | 'Type Name'
+
+
+
+[DIAG] type | 'Type Mark'
+
+
+
+[DIAG] type | 'Cost'
+
+
+
+[DIAG] type | 'Finish Extents'
+
+
+
+[DIAG] type | 'Material'
+
+
+
+[DIAG] type | 'Finish + Air Barrier Depth'
+
+
+
+[DIAG] type | 'Location'
+
+
+
+[DIAG] type | 'Stud Depth'
+
+
+
+[DIAG] type | 'Fully Finished'
+
+
+
+[DIAG] ---- END PARAM DUMP ----
+
+
+
+[VOID] Panel 'P01': 0 cutout(s)
+
+
+
+[VOID1] OFF | clearing void offsets to zero
+
+
+
+[VOID] SET VOID 1 = No
+
+
+
+[VOID] SET UNIT 1 WIDTH = 0.500 in
+
+
+
+[VOID] SET UNIT 1 HEIGHT = 0.500 in
+
+
+
+[VOID] SET VOID 1 JAMB CLR = 0.000 in
+
+
+
+[VOID] SET VOID 1 HEAD CLR = 0.000 in
+
+
+
+[VOID] SET VOID 1 SILL CLR = 0.000 in
+
+
+
+[VOID] SET Void 1 X Offset Left = 0.000 in
+
+
+
+[VOID] SET Void 1 Y Offset = 0.000 in
+
+
+
+[VOID2] OFF | clearing void offsets to zero
+
+
+
+[VOID] SET VOID 2 = No
+
+
+
+[VOID] SET UNIT 2 WIDTH = 0.500 in
+
+
+
+[VOID] SET UNIT 2 HEIGHT = 0.500 in
+
+
+
+[VOID] SET VOID 2 JAMB CLR = 0.000 in
+
+
+
+[VOID] SET VOID 2 HEAD CLR = 0.000 in
+
+
+
+[VOID] SET VOID 2 SILL CLR = 0.000 in
+
+
+
+[VOID] SET Void 2 X Offset Left = 0.000 in
+
+
+
+[VOID] SET Void 2 Y Offset = 0.000 in
+
+
+
+[CORE] Core span: 0.0000 to 0.6667 ft, center at 0.3333 ft from ext face
+
+
+
+[CORE] Location line depth from ext face: 0.3333 ft
+
+
+
+[CORE] Final offset loc_line -> core center: 0.0000 ft
+
+
+
+[GEO] Using CSV wall geometry: origin=(-0.000,-0.000,0.000) dir=(0.0000,-1.0000,0.0000)
+
+
+
+[ELEV] Wall base: Level='L1' @ 0.000 ft + offset 0.000 ft = 0.000 ft
+
+
+
+[ELEV] Panel base Z: 0.000 ft (curve 0.000 + y_in 0.000 in)
+
+
+
+[PLACE] Hosted (abs Z=0.000 ft): P02
+
+
+
+[SIZE] Width param: Overall Width
+
+
+
+[SIZE] Height param: Overall Height
+
+
+
+[ALIGN] P02: expected span 11.510..23.010 ft | bbox span 7.845..23.760 ft | delta 43.988 in
+
+
+
+[ALIGN] Moved P02 along wall dir by 43.988 in
+
+
+
+[VOID] Panel 'P02': 0 cutout(s)
+
+
+
+[VOID1] OFF | clearing void offsets to zero
+
+
+
+[VOID] SET VOID 1 = No
+
+
+
+[VOID] SET UNIT 1 WIDTH = 0.500 in
+
+
+
+[VOID] SET UNIT 1 HEIGHT = 0.500 in
+
+
+
+[VOID] SET VOID 1 JAMB CLR = 0.000 in
+
+
+
+[VOID] SET VOID 1 HEAD CLR = 0.000 in
+
+
+
+[VOID] SET VOID 1 SILL CLR = 0.000 in
+
+
+
+[VOID] SET Void 1 X Offset Left = 0.000 in
+
+
+
+[VOID] SET Void 1 Y Offset = 0.000 in
+
+
+
+[VOID2] OFF | clearing void offsets to zero
+
+
+
+[VOID] SET VOID 2 = No
+
+
+
+[VOID] SET UNIT 2 WIDTH = 0.500 in
+
+
+
+[VOID] SET UNIT 2 HEIGHT = 0.500 in
+
+
+
+[VOID] SET VOID 2 JAMB CLR = 0.000 in
+
+
+
+[VOID] SET VOID 2 HEAD CLR = 0.000 in
+
+
+
+[VOID] SET VOID 2 SILL CLR = 0.000 in
+
+
+
+[VOID] SET Void 2 X Offset Left = 0.000 in
+
+
+
+[VOID] SET Void 2 Y Offset = 0.000 in
+
+
+
+[CORE] Core span: 0.0000 to 0.6667 ft, center at 0.3333 ft from ext face
+
+
+
+[CORE] Location line depth from ext face: 0.3333 ft
+
+
+
+[CORE] Final offset loc_line -> core center: 0.0000 ft
+
+
+
+[GEO] Using CSV wall geometry: origin=(-0.000,-0.000,0.000) dir=(0.0000,-1.0000,0.0000)
+
+
+
+[ELEV] Wall base: Level='L1' @ 0.000 ft + offset 0.000 ft = 0.000 ft
+
+
+
+[ELEV] Panel base Z: 0.000 ft (curve 0.000 + y_in 0.000 in)
+
+
+
+[PLACE] Hosted (abs Z=0.000 ft): P03
+
+
+
+[SIZE] Width param: Overall Width
+
+
+
+[SIZE] Height param: Overall Height
+
+
+
+[ALIGN] P03: expected span 23.021..32.104 ft | bbox span 18.147..31.646 ft | delta 58.488 in
+
+
+
+[ALIGN] Moved P03 along wall dir by 58.488 in
+
+
+
+[VOID] Panel 'P03': 0 cutout(s)
+
+
+
+[VOID1] OFF | clearing void offsets to zero
+
+
+
+[VOID] SET VOID 1 = No
+
+
+
+[VOID] SET UNIT 1 WIDTH = 0.500 in
+
+
+
+[VOID] SET UNIT 1 HEIGHT = 0.500 in
+
+
+
+[VOID] SET VOID 1 JAMB CLR = 0.000 in
+
+
+
+[VOID] SET VOID 1 HEAD CLR = 0.000 in
+
+
+
+[VOID] SET VOID 1 SILL CLR = 0.000 in
+
+
+
+[VOID] SET Void 1 X Offset Left = 0.000 in
+
+
+
+[VOID] SET Void 1 Y Offset = 0.000 in
+
+
+
+[VOID2] OFF | clearing void offsets to zero
+
+
+
+[VOID] SET VOID 2 = No
+
+
+
+[VOID] SET UNIT 2 WIDTH = 0.500 in
+
+
+
+[VOID] SET UNIT 2 HEIGHT = 0.500 in
+
+
+
+[VOID] SET VOID 2 JAMB CLR = 0.000 in
+
+
+
+[VOID] SET VOID 2 HEAD CLR = 0.000 in
+
+
+
+[VOID] SET VOID 2 SILL CLR = 0.000 in
+
+
+
+[VOID] SET Void 2 X Offset Left = 0.000 in
+
+
+
+[VOID] SET Void 2 Y Offset = 0.000 in
+
+
+
+[CORE] Core span: 0.0000 to 0.6667 ft, center at 0.3333 ft from ext face
+
+
+
+[CORE] Location line depth from ext face: 0.3333 ft
+
+
+
+[CORE] Final offset loc_line -> core center: 0.0000 ft
+
+
+
+[GEO] Using CSV wall geometry: origin=(-0.000,-0.000,0.000) dir=(0.0000,-1.0000,0.0000)
+
+
+
+[ELEV] Wall base: Level='L1' @ 0.000 ft + offset 0.000 ft = 0.000 ft
+
+
+
+[ELEV] Panel base Z: 0.000 ft (curve 0.000 + y_in 0.000 in)
+
+
+
+[PLACE] Hosted (abs Z=0.000 ft): P04
+
+
+
+[SIZE] Width param: Overall Width
+
+
+
+[SIZE] Height param: Overall Height
+
+
+
+[ALIGN] P04: expected span 32.115..43.615 ft | bbox span 28.449..44.365 ft | delta 43.988 in
+
+
+
+[ALIGN] Moved P04 along wall dir by 43.988 in
+
+
+
+[VOID] Panel 'P04': 1 cutout(s)
+
+
+
+[VOID1] ON | 40.00x88.00in @ (6.63,0.00)in | clr J=0.0 H=0.0 S=0.0
+
+
+
+[VOID] SET VOID 1 = Yes
+
+
+
+[VOID] SET UNIT 1 WIDTH = 40.000 in
+
+
+
+[VOID] SET UNIT 1 HEIGHT = 88.000 in
+
+
+
+[VOID] SET VOID 1 JAMB CLR = 0.000 in
+
+
+
+[VOID] SET VOID 1 HEAD CLR = 0.000 in
+
+
+
+[VOID] SET VOID 1 SILL CLR = 0.000 in
+
+
+
+[VOID] SET Void 1 X Offset Left = 6.625 in
+
+
+
+[VOID] SET Void 1 Y Offset = 0.000 in
+
+
+
+[VOID2] OFF | clearing void offsets to zero
+
+
+
+[VOID] SET VOID 2 = No
+
+
+
+[VOID] SET UNIT 2 WIDTH = 0.500 in
+
+
+
+[VOID] SET UNIT 2 HEIGHT = 0.500 in
+
+
+
+[VOID] SET VOID 2 JAMB CLR = 0.000 in
+
+
+
+[VOID] SET VOID 2 HEAD CLR = 0.000 in
+
+
+
+[VOID] SET VOID 2 SILL CLR = 0.000 in
+
+
+
+[VOID] SET Void 2 X Offset Left = 0.000 in
+
+
+
+[VOID] SET Void 2 Y Offset = 0.000 in
+
+
+
+[CORE] Core span: 0.0000 to 0.6667 ft, center at 0.3333 ft from ext face
+
+
+
+[CORE] Location line depth from ext face: 0.3333 ft
+
+
+
+[CORE] Final offset loc_line -> core center: 0.0000 ft
+
+
+
+[GEO] Using CSV wall geometry: origin=(-0.000,-0.000,0.000) dir=(0.0000,-1.0000,0.0000)
+
+
+
+[ELEV] Wall base: Level='L1' @ 0.000 ft + offset 0.000 ft = 0.000 ft
+
+
+
+[ELEV] Panel base Z: 0.000 ft (curve 0.000 + y_in 0.000 in)
+
+
+
+[PLACE] Hosted (abs Z=0.000 ft): P05
+
+
+
+[SIZE] Width param: Overall Width
+
+
+
+[SIZE] Height param: Overall Height
+
+
+
+[ALIGN] P05: expected span 43.625..52.000 ft | bbox span 38.397..51.312 ft | delta 62.738 in
+
+
+
+[ALIGN] Moved P05 along wall dir by 62.738 in
+
+
+
+[VOID] Panel 'P05': 0 cutout(s)
+
+
+
+[VOID1] OFF | clearing void offsets to zero
+
+
+
+[VOID] SET VOID 1 = No
+
+
+
+[VOID] SET UNIT 1 WIDTH = 0.500 in
+
+
+
+[VOID] SET UNIT 1 HEIGHT = 0.500 in
+
+
+
+[VOID] SET VOID 1 JAMB CLR = 0.000 in
+
+
+
+[VOID] SET VOID 1 HEAD CLR = 0.000 in
+
+
+
+[VOID] SET VOID 1 SILL CLR = 0.000 in
+
+
+
+[VOID] SET Void 1 X Offset Left = 0.000 in
+
+
+
+[VOID] SET Void 1 Y Offset = 0.000 in
+
+
+
+[VOID2] OFF | clearing void offsets to zero
+
+
+
+[VOID] SET VOID 2 = No
+
+
+
+[VOID] SET UNIT 2 WIDTH = 0.500 in
+
+
+
+[VOID] SET UNIT 2 HEIGHT = 0.500 in
+
+
+
+[VOID] SET VOID 2 JAMB CLR = 0.000 in
+
+
+
+[VOID] SET VOID 2 HEAD CLR = 0.000 in
+
+
+
+[VOID] SET VOID 2 SILL CLR = 0.000 in
+
+
+
+[VOID] SET Void 2 X Offset Left = 0.000 in
+
+
+
+[VOID] SET Void 2 Y Offset = 0.000 in
+
+
+
+
+Done. Placed 5 panels.
